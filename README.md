@@ -1,0 +1,1 @@
+# Palavras_chaves_aws_cloud_practitioner
